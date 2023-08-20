@@ -1,4 +1,4 @@
 ## This is the tutorial for production grade coding
 
 ### Things that we will learn
-### Git
+### Git and version control
