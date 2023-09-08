@@ -1,5 +1,3 @@
-## This is the tutorial for production grade coding
+# Becoming a Pro at Production Grade Coding
 
-### Things that we will learn
-<h3>1. Git and version control<h3>
-<h3>These changes are made by developer 2<h3>
+## This a repository where I am to improve my [ DataScience + Coding Skills ]
